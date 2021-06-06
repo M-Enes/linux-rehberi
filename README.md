@@ -38,7 +38,7 @@ Kullanmanız için zorunlu bir neden yoktur. Ancak linux distroları çok çeşi
 Göreceksiniz ki her linux dağıtımı kendisine özgü bir yaklaşımla linux çekirdeği üzerinde farklı amaçlarla geliştirilmiştir. Örneğin Arch Linux dağıtımının bana göre en güzel özellikleri sade, minimal, öğretici, performanslı, aur ve pacman sistemlerini kullanması gibi özelliklerdir.
 
 ## Linux'u denemek istiyorum bunu nasıl yapabilirim?
-Bu işlem için birçok yol vardır
+Bu işlem için birçok yol vardır.
 
 Çoğu linux dağıtımında live adı verilen bir özellik bulunur. Bu özellik sayesinde usb flash belleğinizdeki alanı disk gibi kullanarak live olarak deneyimlediğiniz linux dağıtımının birçok özelliğini kullanabilirsiniz.
 
@@ -48,5 +48,5 @@ Docker kullanarak containerlere linux dağıtımlarını kurabilirsiniz.
 
 
 ## Linux hakkında yararlı kaynaklar
-http://gnu.org
-https://linux-dersleri.github.io
+- https://gnu.org
+- https://linux-dersleri.github.io
