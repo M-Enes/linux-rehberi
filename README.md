@@ -45,3 +45,8 @@ Bu işlem için birçok yol vardır
 Sanal makine yazılımları kullanarak (Virtualbox, VMWare gibi) ana işletim sisteminizde program çalıştırır gibi linux dağıtımlarını çalıştırabilirsiniz.
 
 Docker kullanarak containerlere linux dağıtımlarını kurabilirsiniz.
+
+
+## Linux hakkında yararlı kaynaklar
+http://gnu.org
+https://linux-dersleri.github.io
