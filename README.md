@@ -54,3 +54,5 @@ https://github.com/m-enes/linux-rehberi/blob/main/Arch-kurulum.md
 ## Linux hakkında yararlı kaynaklar
 - https://gnu.org
 - https://linux-dersleri.github.io
+- https://wiki.archliux.org
+- https://github.com/buraaksenturk/linuxegitim
