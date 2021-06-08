@@ -17,7 +17,7 @@ Linux olarak bilinen işletim sistemleridir.
 Özgür yazılım (free software) felsefesi yazılımın kaynak kodlarının internet gibi herkesin erişimine açık ortamda bulundurulmasıdır. Özgür yazılım ücretsiz olmak zorunda değildir. Ayrıca özgür yazılımlar kullanan bir yazılım projesinde özgür yazılım lisansı bulunmak zorundadır.
 
 ## Açık kaynak yazılım nedir?
-Açık kaynak yazılım (open source software/OSS) kaynak kodu internet gibi bir ortamda bulundurulan yazılım türüdür. Açık kaynak yazılımlarda lisansın türüne göre yazılımı kullanan kişinin açık kaynak lisansı kendi yazılım lisansında dahil etme gibi yükümlülükleri bulunabilir. Ücretsiz olmak zorunda değildir.
+Açık kaynak yazılım (open source software/OSS) kaynak kodu internet gibi bir ortamda herkese açık olarak bulundurulan yazılım türüdür. Açık kaynak yazılımlarda lisansın türüne göre yazılımı kullanan kişinin açık kaynak lisansı kendi yazılım lisansında dahil etme gibi yükümlülükleri bulunabilir. Ücretsiz olmak zorunda değildir.
 
 ## İyi de nasıl para kazanacaklar ki?
 Öncelikle, tüm yazılım projeleri gelir elde etmek zorunda değildir. Ancak tabii ki özgür yazılım ve açık kaynak yazılım projelerinden gelir elde edilebilmektedir.
@@ -47,12 +47,15 @@ Sanal makine yazılımları kullanarak (Virtualbox, VMWare gibi) ana işletim si
 Docker kullanarak containerlere linux dağıtımlarını kurabilirsiniz.
 
 ## Arch Linux kurulumu için
-
 https://github.com/m-enes/linux-rehberi/blob/main/Arch-kurulum.md
+
+## Dockera Kali kurulumu için
+https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Docker-da-KALI.md
 
 
 ## Linux hakkında yararlı kaynaklar
 - https://gnu.org
 - https://linux-dersleri.github.io
-- https://wiki.archliux.org
+- https://wiki.archlinux.org
 - https://github.com/buraaksenturk/linuxegitim
+- https://github.com/LuNiZz/siber-guvenlik-sss 
