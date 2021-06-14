@@ -47,3 +47,15 @@ Orada anlatılmayan masaüstü ortamları için https://wiki.archlinux.org adres
 `sudo pacman -Rs {paketismi}` paketi ve paketi kurarken yüklediğiniz paketin bağımlı olduğu paketlerden artık kullanılmayanları kaldırır.
 
 `sudo pacman -Rcns {paketismi}` paketi ve tüm bağımlı olduğu paketleri kaldırır. Gerekli olan paketleri de kaldırabileceğinden tavsiye edilmez.
+
+## Sıklıkla kullanılan yay komutları
+
+`yay {paketismi}` ilgili paketleri numaralanmış şekilde listeler, istediğiniz paketin numarasını yazarak indirme yapabilirsiniz.
+
+`yay -S {paketismi}` paketi kurmanızı sağlar.
+
+`yay -R {paketismi}` paketi kaldırma komutudur. Sadece paketi kaldırır. Bağımlı olduğu diğer paketleri kaldırmaz.
+
+`yay -Rns {paketismi}` paketi ve paketi kurarken yüklediğiniz paketin bağımlı olduğu paketlerden artık kullanılmayanları kaldırır.
+
+`yay -Yc` başka bir paket tarafından kendisine gerek duyulmayan gereksiz paketleri kaldırır.
