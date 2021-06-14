@@ -54,8 +54,10 @@ https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Docker-da-KALI.md
 
 
 ## Linux hakkında yararlı kaynaklar
-- https://gnu.org
-- https://linux-dersleri.github.io
-- https://wiki.archlinux.org
-- https://github.com/buraaksenturk/linuxegitim
-- https://github.com/LuNiZz/siber-guvenlik-sss 
+- https://gnu.org > gnu resmi sitesi
+- https://linux-dersleri.github.io > adım adım Türkçe linux dersleri
+- https://wiki.archlinux.org > archlinux resmi wiki sayfası
+- https://github.com/buraaksenturk/linuxegitim > linux komutları ve kullanımını anlatan döküman
+- https://github.com/LuNiZz/siber-guvenlik-sss > LuNiZz'in (Can Değer) hazırladığı siber güvenlik sss
+- https://www.youtube.com/c/Yusuf%C4%B0pek > Yusuf İpek YouTube kanalı
+- https://linuxjourney.com/ > linux kavramlarını adım adım öğreten websitesi (Türkçe desteği mevcut)
