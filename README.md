@@ -61,3 +61,4 @@ https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Docker-da-KALI.md
 - https://github.com/LuNiZz/siber-guvenlik-sss > LuNiZz'in (Can Değer) hazırladığı siber güvenlik sss
 - https://www.youtube.com/c/Yusuf%C4%B0pek > Yusuf İpek YouTube kanalı
 - https://linuxjourney.com/ > linux kavramlarını adım adım öğreten websitesi (Türkçe desteği mevcut)
+- https://cmdchallenge.com/ > linux terminal komutlarını alıştırmalarla öğrenebileceğiniz websitesi
