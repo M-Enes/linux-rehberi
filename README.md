@@ -46,6 +46,12 @@ Sanal makine yazılımları kullanarak (Virtualbox, VMWare gibi) ana işletim si
 
 Docker kullanarak containerlere linux dağıtımlarını kurabilirsiniz.
 
+## Bir sürü dağıtım var hangisini seçeceğim?
+Kendinize en uygun dağıtımı bulmak için performans karşılaştırmaları, paket yöneticileri vs. özelliklere bakarak bir karar verebilirsiniz.
+Ayrıca dağıtımlarla ilgili detaylı bilgi alabileceğiniz web sitesi:
+https://distrowatch.com
+
+
 ## Arch Linux kurulumu için
 https://github.com/m-enes/linux-rehberi/blob/main/Arch-kurulum.md
 
