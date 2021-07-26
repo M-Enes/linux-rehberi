@@ -38,6 +38,11 @@ Kullanmanız için zorunlu bir neden yoktur. Ancak linux distroları çok çeşi
 Göreceksiniz ki her linux dağıtımı kendisine özgü bir yaklaşımla linux çekirdeği üzerinde farklı amaçlarla geliştirilmiştir. Örneğin Arch Linux dağıtımının bana göre en güzel özellikleri sade, minimal, öğretici, performanslı, aur ve pacman sistemlerini kullanması gibi özelliklerdir.
 
 ## Linux'u denemek istiyorum bunu nasıl yapabilirim?
+
+### Uyarı
+>Herhangi bir linux dağıtımında karşılaşabileceğiniz hatalar sonucu çözüm ararken **İngilizce** bilgisi gerekecektir. Bu yüzden lütfen öncelikle **İngilizce**'nizi geliştirin ve **İngilizce** terimleri yoğun şekilde araştırmaya hazır olun.
+
+
 Bu işlem için birçok yol vardır.
 
 Çoğu linux dağıtımında live adı verilen bir özellik bulunur. Bu özellik sayesinde usb flash belleğinizdeki alanı disk gibi kullanarak live olarak deneyimlediğiniz linux dağıtımının birçok özelliğini kullanabilirsiniz.
@@ -57,6 +62,11 @@ https://github.com/m-enes/linux-rehberi/blob/main/Arch-kurulum.md
 
 ## Dockera Kali kurulumu için
 https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Docker-da-KALI.md
+
+## Linux'u derinlemesine öğrenmek istiyorum. Ne yapmalıyım?
+Hatalardan korkmamalısınız.
+Bu depoda aradığınız tarzda bilgiler var
+https://github.com/m-enes/advanced-linux
 
 
 ## Linux hakkında yararlı kaynaklar
